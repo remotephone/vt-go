@@ -1,3 +1,3 @@
-module github.com/remotephone/go-vt
+module github.com/remotephone/vt-go
 
-go 1.13
+go 1.18
